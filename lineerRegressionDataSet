@@ -10,8 +10,8 @@
     "import pandas as pd\n",
     "import numpy as np\n",
     "import matplotlib.pyplot as plt\n",
-    "from sklearn.linear_model import LinearRegression #sistemi eğitmek için\n",
-    "from sklearn.metrics import mean_squared_error, r2_score #sistemin başarısını ölçmek için"
+    "from sklearn.linear_model import LinearRegression",
+    "from sklearn.metrics import mean_squared_error, r2_score"
    ]
   },
   {
